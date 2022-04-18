@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background:url(pictures/background.jpg) ;    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#img_pok_inic{
+    width: 800px;
+    height: 450px;
+}
